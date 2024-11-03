@@ -1,8 +1,8 @@
-<h1 align="left">Stats</h1>
+<p align="left">Olá, me chamo Arthur Sena tenho 17 anos e estou cursando Desenvolvimento de Sistema no Senai Santo Amaro - Suíço-Brasileira. 👨‍💻</p>
 
 ###
 
-<p align="left">Olá, me chamo Arthur Sena tenho 17 anos e estou cursando Desenvolvimento de Sistema no Senai Santo Amaro - Suíço-Brasileira. 👨‍💻</p>
+<h1 align="left">Stats</h1>
 
 ###
 
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ASSena&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ASSena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ASSena&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASSena&radius=16&theme=react&area=true&order=5" height="368" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASSena&radius=16&theme=redical&area=true&order=5" height="368" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -47,11 +47,17 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/arthur-sena-1a8887246/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="arthur.silva.sena25@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ASSena/ASSena/output/snake.svg" alt="Snake animation" />
 
