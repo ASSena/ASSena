@@ -57,7 +57,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ASSena/ASSena/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/ASSena/ASSena/edit/main/README.md)
 ###
