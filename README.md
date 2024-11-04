@@ -58,6 +58,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ASSena/ASSena/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ASSena/ASSena/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ###
