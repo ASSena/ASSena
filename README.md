@@ -57,5 +57,5 @@
 ###
 
 <br clear="both">
-![Snake animation](https://github.com/ASSena/ASSena/edit/main/README.md)
+
 ###
